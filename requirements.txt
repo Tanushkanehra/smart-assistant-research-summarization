@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+streamlit
+openai
+langchain
+transformers
+PyPDF2
+python-multipart
